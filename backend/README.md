@@ -57,3 +57,23 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## API Documentation
+
+### API Version
+/api/78719/v1
+
+### Endpoints
+
+- GET /api/78719/v1/tasks  
+- POST /api/78719/v1/tasks  
+- PUT /api/78719/v1/tasks/{id}  
+- DELETE /api/78719/v1/tasks/{id}  
+
+### Status Codes
+
+- 200 OK  
+- 201 Created  
+- 204 No Content  
+- 404 Not Found  
+- 422 Unprocessable Entity
